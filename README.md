@@ -23,9 +23,7 @@ A DevOps Engineer with over 3 years of hands-on experience, extensively working 
 
 **Education** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| Bachelor of Technology | Haldia Institute of Technology (MAKAUT) | *Haldia, WB, India* | 08/2016 \- 07/2020 |
-| :---- | :---: | ----: | ----: |
-
+**Bachelor of Technology 	Haldia Institute of Technology (MAKAUT) 	Haldia, WB, India 	08/2016 \- 07/2020**  
 •   Major in Mechanical Engineering
 
 **Projects** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -42,7 +40,3 @@ Responsibilities included designing and implementing CI/CD pipelines, managing a
 •   **Awarded for Excellence:** Awarded '[**Best Developer**](https://drive.google.com/file/d/1VLhnzeoPVNyoTiVb9cXMkWKWnq_SV1Md/view?usp=sharing)' in 2024 for contributions to key integrations and the development of automation tools that reduced manual effort, improved efficiency, and optimized costs.   
 •  **[GCP Cloud Digital Leader certified](https://drive.google.com/file/d/1jFA0qVV5mDO5vdU-Gf0XMhFQ3csWor7i/view?usp=sharing)**  
 •  **Infosys certified:** [Python Associate](https://drive.google.com/file/d/1ZcbbaRD5OsUZTJmRBpU9-ZfTEW8it7wD/view?usp=sharing), [Associate in IaC using Python for AWS](https://drive.google.com/file/d/1YiOC2_qwr2_SPcEXDilhcmjNZkoLkfWo/view?usp=sharing), [Associate in Ansible Automation](https://drive.google.com/file/d/1sQQoSRvKhgNFTV6YXamBB97c0VLbzxai/view?usp=sharing)
-<<<<<<< HEAD
-=======
-
->>>>>>> bfc9100 (Created Rishabh Raj profile branch)
